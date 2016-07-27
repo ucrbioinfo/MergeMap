@@ -2,8 +2,8 @@
 MergeMap is a software tool that builds accurate consensus genetic maps from a set of individual genetic maps
 
 Software requirement
-- G++
-- BOOST library
+- g++
+- BOOST library http://www.boost.org/
 - GRAPHVIZ library http://www.graphviz.org/ if you want to visualize the graphs
 
 To compile: type "make"
