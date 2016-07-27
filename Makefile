@@ -35,4 +35,4 @@ heuristic_solver.o : heuristic_solver.cpp heuristic_solver.h
 	g++ -o heuristic_solver.o -c -g heuristic_solver.cpp 
 	
 clean:
-	rm -rf *.o; rm -rf *.exe; rm -rf *~; rm -rf *.out
+	rm -rf *.o; rm -rf MergeMap; rm -rf *~; rm -rf *.out
