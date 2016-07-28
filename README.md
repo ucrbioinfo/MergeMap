@@ -10,7 +10,7 @@ To download: type "git clone https://github.com/ucrbioinfo/MergeMap"
 
 To compile: type "cd MergeMap" then type "make"
 
-To run: type "MergeMap configuration_file" where configuration_file is descrived in the Help page below.
+To run: type "./MergeMap configuration_file" where configuration_file is descrived in the Help page below.
 
 Help: http://alumni.cs.ucr.edu/~yonghui/mgmap.html
 
