@@ -45,7 +45,7 @@ int main (int argc, char * const argv[])
     }
     cfg_file.close();
     
-    printf("number of maps %d \n", maps_to_read.size());
+    printf("number of maps %d \n", (int)maps_to_read.size());
     for (int i = 0; i < maps_to_read.size(); i++) {
         printf("%s,\t%.3f,\t%s\n", 
                (maps_to_read[i]).ppl_name.c_str(), 
