@@ -11,6 +11,7 @@
 #include "heuristic_solver.h"
 #include <iostream>
 #include <set>
+#include <stdio.h>
 #include "constants.h"
 #include <boost/graph/strong_components.hpp>
 #include <boost/graph/graph_utility.hpp>
