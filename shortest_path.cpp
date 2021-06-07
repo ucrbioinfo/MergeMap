@@ -10,6 +10,7 @@
 #include "shortest_path.h"
 #include <limits>
 #include <iostream>
+#include <stdio.h>
 #include <cmath>
 #include <map>
 #include <cstdlib>
