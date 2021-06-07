@@ -8,6 +8,7 @@
  */
 
 #include "heuristic_solver.h"
+#include <limits>
 #include <iostream>
 
 namespace consensus_map {
